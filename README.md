@@ -22,7 +22,6 @@ Visual Studio Code
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Google Firebase](https://console.firebase.google.com/)
 * [Firestore Documentation](https://firebase.google.com/docs/firestore)
 
